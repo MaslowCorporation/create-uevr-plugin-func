@@ -1,0 +1,10 @@
+[
+  {
+    "promptName": "FunctionName",
+    "text": "PluginFunc"
+  },
+  {
+    "promptName": "FunctionName",
+    "text": "add"
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "type": "input",
+    "name": "FunctionName",
+    "message": "Name your beautiful plugin function"
+  }
+]
